@@ -2,7 +2,9 @@
 
 This API manages superhero powers. A power can have a name and a description. The API supports CRUD operations (Create, Read, Update, Delete) for powers.
 
-### Deployment     link https://phase-four-superheroes.onrender.com
+### Deployment     link https://phase-4-code-challenge-superheroes-bix9.onrender.com
+
+![Render ploblem](app/assets/images/Screenshot from 2023-04-04 15-15-49.png)
 
 ## Getting Started
 To get started,clone this repository to your local machine and run:
@@ -50,9 +52,9 @@ Add validations to the Power model:
 The following API endpoints are available:
 
 ## GET /heroes
-Here is the live link https://phase-four-superheroes.onrender.com/heroes-To view all heroes
+Here is the live link https://phase-4-code-challenge-superheroes-bix9.onrender.com/heroes-To view all heroes
 
-Here is the live link https://phase-four-superheroes.onrender.com/heroes/2-To view heroes by id
+Here is the live link https://phase-4-code-challenge-superheroes-bix9.onrender.com/heroes/2-To view heroes by id
 
 Returns a JSON array of all heroes in the database, in the following format:
 ```
@@ -92,7 +94,7 @@ Returns a JSON object with information about a specific hero, including their as
 
 Returns a JSON array of all powers in the database, in the following format:
 
-Here is the live link https://phase-four-superheroes.onrender.com/powers- To view all powers
+Here is the live link https://phase-4-code-challenge-superheroes-bix9.onrender.com/powers- To view all powers
 
 ```
 [
