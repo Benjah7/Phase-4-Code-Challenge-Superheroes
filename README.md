@@ -4,7 +4,10 @@ This API manages superhero powers. A power can have a name and a description. Th
 
 ### Deployment     link https://phase-4-code-challenge-superheroes-bix9.onrender.com
 
-![Render!](app/assets/images/Screenshot from 2023-04-04 15-15-49.png)
+## Deployment photo
+
+
+![render!](app/assets/images/Screenshot.jpg)
 
 ## Getting Started
 To get started,clone this repository to your local machine and run:
