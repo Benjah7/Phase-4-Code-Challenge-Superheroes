@@ -9,6 +9,9 @@ This API manages superhero powers. A power can have a name and a description. Th
 
 ![render!](app/assets/images/Screenshot.jpg)
 
+the deployment photo shows that theirs error occurred during deployment.
+
+
 ## Getting Started
 To get started,clone this repository to your local machine and run:
 
